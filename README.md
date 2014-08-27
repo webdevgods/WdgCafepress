@@ -20,8 +20,8 @@ Add WdgCafepress to your project's composer.json
 ```php
 return array(
     "wdgcafepress" => array(
-        "apikey" => "qrgq7mkc7jug4fcjyh6j5tdxahlhh0dczl38",
-        "storeid" => "diamonds2destiny",
+        "apikey" => "",
+        "storeid" => "",
         "baseurl" => "http://open-api.cafepress.com/" //Cafepress api base url
     )
 );
