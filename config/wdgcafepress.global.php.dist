@@ -1,0 +1,8 @@
+<?php
+return array(
+    "wdgcafepress" => array(
+        "apikey" => "",
+        "storeid" => "",
+        "baseurl" => "http://open-api.cafepress.com/" //Cafepress api base url
+    )
+);
