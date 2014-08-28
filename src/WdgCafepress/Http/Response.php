@@ -9,7 +9,7 @@ class Response
     protected $simpleXMLElement;
 
     public function __construct($xml = null) {
-        $this->simpleXMLElement = new \WdgCafepress\SimpleXMLElement($xml);
+        $this->simpleXMLElement = new \WdgCafepress\SimpleXmlElement($xml);
     }
 
     public function hasError() {
